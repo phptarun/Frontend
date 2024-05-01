@@ -1,8 +1,6 @@
 # Frontend
 Show the list of users
 
-# Installation
-
   ## Prerequisite
 
    - NodeJS - Node v18.17.1
