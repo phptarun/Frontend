@@ -3,7 +3,7 @@ Show the list of users
 
 # Installation
 
- ## Make sure following versions are installed
+  ## Prerequisite
 
    - NodeJS - Node v18.17.1
 
